@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="es" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="es class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="es"> <!--<![endif]-->  
+<head>
+    <title>Error 404 | Titanium Server</title>
+    <!-- Meta -->
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="Titanium Server - Cloud Hosting, VPS, Correo Electrónico Empresarial, Seguridad y Marketing en internet. El mejor servicio web en México. (55)7042-9520 CDMX"><meta name="theme-color" content="#333333">
+    <!-- SEO script Schema --><script type="application/ld+json">{"@context" : "http://schema.org","@type" : "Organization","name" : "Titanium Server","url" : "https://titaniumserver.net/","legalName" : "Titanium Server","brand" : "Titanium Server","alternateName" : "Ti Server","address" : "Circuito Interior Instituto Tecnico Industrial 70, Agricultura, Ciudad de México, D.F.","email" : ["soporte@titaniumserver.net","info@titaniumserver.net","facturacion@titaniumserver.net"],"description" : "Titanium Server - Cloud Hosting, VPS, Correo Electrónico Empresarial, Seguridad y Marketing en internet. El mejor servicio web en México. (55)7042-9520 CDMX","telephone" : "5570429520","logo" : "http://titaniumserver.net/images/seologo.png","sameAs" : ["https://twitter.com/TitaniumServer_","https://twitter.com/TitaniumServer_","https://www.facebook.com/titaniumserver/","https://titaniumserver.blog/","https://www.linkedin.com/company/titanium-server"]}</script><!-- SEO script Schema -->
+  <!-- Código de seguimiento Analytics --><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-77852174-1', 'auto'); ga('send', 'pageview');</script><link href="https://plus.google.com/+TitaniumserverNet" rel="publisher" /><!-- Código de seguimiento Analytics -->
+    <!-- SEO FB --><meta property="og:url" content="http://titaniumserver.net/" /><meta property="og:title" content="Titanium Server | Web Hosting Email Certificados SSL" /><meta property="og:image" content="http://titaniumserver.net/images/seologo.png" /><meta property="og:description" content="Titanium Server - Cloud Hosting, VPS, Correo Electrónico Empresarial, Seguridad y Marketing en internet. El mejor servicio web en México. (55)7042-9520 CDMX" /><!-- SEO FB -->
+    <!-- Icons --><link rel="icon" type="image/vnd.microsoft.icon"  href="https://titaniumserver.net/images/favicon.ico" /><link rel="apple-touch-icon" href="https://titaniumserver.net/images/touch-icon-iphone.png" /><link rel="apple-touch-icon" sizes="76x76" href="https://titaniumserver.net/images/touch-icon-ipad.png" /><link rel="apple-touch-icon" sizes="120x120" href="https://titaniumserver.net/images/touch-icon-iphone-retina.png" /><link rel="apple-touch-icon" sizes="152x152" href="https://titaniumserver.net/images/touch-icon-ipad-retina.png" /><!-- Icons -->
+ 	<!-- Web Fonts -->
+ 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"><link href="https://titaniumserver.net/webfontkit/stylesheet.css" rel="stylesheet">
+    <!-- CSS Global Compulsory -->
+    <link rel="stylesheet" href="https://titaniumserver.net/404/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://titaniumserver.net/404/style.css">
+    <!-- CSS Page Style -->    
+    <link rel="stylesheet" href="https://titaniumserver.net/404/page_404_error1.css">
+    <!-- CSS Customization -->
+    <link rel="stylesheet" href="https://titaniumserver.net/404/custom.css">
+    <!--  Chat Live Help Messenger Code //--><script type="text/JavaScript" src="https://titaniumserver.net/clientes/modules/livehelp/scripts/jquery-latest.js"></script><script type="text/javascript"><!--
+	var LiveHelpSettings = {};LiveHelpSettings.server = 'titaniumserver.net/clientes/modules/';LiveHelpSettings.embedded = true;(function(d, $, undefined) { $(window).ready(function() { var LiveHelp = d.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true; LiveHelp.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.js'; var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(LiveHelp, s); }); })(document, jQuery);
+	--></script><!--  Chat Live Help Messenger Code //-->
+</head> 
+
+<body>
+
+<!--=== Content Part ===-->    
+<div class="container">
+    <!--Error Block-->
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <div class="error-v2">
+            <h3><img src="https://titaniumserver.net/404/titanium-server.png" alt="" height="100"></h3>
+                <span class="error-v2-title">404</span>
+                <span>¡Ha ocurrido un error!</span>
+                <p>El elemento al que intentas acceder no existe en este universo<br>
+                Puedes volver a nuestra <a href="https://www.titaniumserver.net">página principal</a></p>
+                <a href="#" class="LiveHelpButton"><img src="https://titaniumserver.net/clientes/modules/livehelp/include/status.php" id="LiveHelpStatusDefault" name="LiveHelpStatusDefault" border="0" alt="Live Help" class="LiveHelpStatus"/></a>
+            </div>
+        </div>
+    </div>
+    <!--End Error Block-->
+</div><!--/container-->
+<!--=== End Content Part ===-->
+
+<!-- JS Global Compulsory -->           
+<script type="text/javascript" src="https://titaniumserver.net/404/jquery.min.js"></script>
+<script type="text/javascript" src="https://titaniumserver.net/404/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="https://titaniumserver.net/404/bootstrap/js/bootstrap.min.js"></script> 
+<!-- JS Implementing Plugins -->           
+<script type="text/javascript" src="https://titaniumserver.net/404/back-to-top.js"></script>
+<script type="text/javascript" src="https://titaniumserver.net/404/backstretch/jquery.backstretch.min.js"></script>
+<!-- JS Customization -->
+<script type="text/javascript" src="https://titaniumserver.net/404/custom.js"></script>
+<!-- JS Page Level -->           
+<script type="text/javascript" src="https://titaniumserver.net/404/app.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        App.init();
+        });
+</script>
+<script type="text/javascript">
+    $.backstretch([
+      "https://titaniumserver.net/404/2.jpg",
+      "https://titaniumserver.net/404/8.jpg",
+	  "https://titaniumserver.net/404/11.jpg",
+	  "https://titaniumserver.net/404/17.jpg",
+	  "https://titaniumserver.net/404/25.jpg",
+      ], {
+        fade: 1000,
+        duration: 7000
+    });
+</script>
+<!--[if lt IE 9]>
+    <script src="https://titaniumserver.net/404/assets/plugins/respond.js"></script>
+    <script src="https://titaniumserver.net/404/assets/plugins/html5shiv.js"></script>
+    <script src="https://titaniumserver.net/404/assets/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->
+
+</body>
+</html> 

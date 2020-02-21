@@ -722,7 +722,7 @@ header {
 
 /* 12. Slider container  */
 .pm-slider-container {
-  background-image: url(../images/slider/slide1.html);
+  background-image: url(../img/slider/slide1.html);
   background-repeat: no-repeat;
   background-position: top center;
   width: 100%;
@@ -734,7 +734,7 @@ header {
   background-color: #191b27;
   padding: 100px 0px;
   background-repeat: no-repeat;
-  background-image: url(../images/footer/fat-footer-bg.jpg);
+  background-image: url(../img/footer/fat-footer-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center; }
 
@@ -1412,7 +1412,7 @@ header {
   padding-top: 80px;
   background-position: center top;
   background-repeat: no-repeat;
-  background-image: url(../images/sub-header.jpg);
+  background-image: url(../img/sub-header.jpg);
   height: 225px; }
 
 .pm-page-title {
