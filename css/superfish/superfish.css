@@ -36,6 +36,7 @@
 /*** DEMO SKIN ***/
 .sf-menu {
 	float: left;
+	margin-left: 25%;
 	margin-bottom: 1em;
 }
 .sf-menu ul {

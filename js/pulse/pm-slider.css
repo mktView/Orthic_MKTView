@@ -330,7 +330,7 @@ video {
     margin-left:500px;
     padding-left: 0;
 	position:relative;
-	background-image:url(../../img/home/slider-bg.png);
+	background-image:url(../../images/home/slider-bg.png);
 	background-repeat:no-repeat;
 	background-position:center 50px;	
 	padding-top:185px;
@@ -396,7 +396,6 @@ video {
 	font-weight:300;
 	max-width:480px;
 	opacity:0;
-	
 }
 
 .pm-slide-btn i {
