@@ -148,14 +148,14 @@ p {
   font-weight: 300;
   line-height: 24px; }
 
-#pNeomed {
+.pNeomed {
     color: #666;
     font-family: "Open sans";
     font-size: 60px;
     font-weight: 300;
     line-height: 24px; }
 
-#hNeomed {
+.hNeomed {
       font-size: 40px;
       font-family: 'Raleway';
       font-weight: 200;
@@ -218,7 +218,7 @@ iframe {
   font-size: 24px;
   font-family: 'Raleway';
   font-weight: 300;
-  color: #34ceda;
+  color: #21bbc7;
   margin-top: 20px;
   margin-bottom: 10px;
   padding: 0px; }
@@ -226,7 +226,7 @@ iframe {
 .pm-column-title-divider {
   width: 270px;
   height: 1px;
-  border-top: 1px solid #00b2e2;
+  border-top: 1px solid #21bbc7;
   display: table;
   margin: 0 auto;
   position: relative;
@@ -259,8 +259,8 @@ h2 {
 h3 {
   font-size: 14px;
   font-family: 'Raleway';
-  font-weight: 200;
-  color: #00b2e2;
+  font-weight:bold;
+  color: #fff;
   margin-top: 0px;
   margin-bottom: 10px;
   padding: 0px; }
@@ -282,7 +282,7 @@ h4.pm-primary {
 h5 {
   font-size: 16px;
   font-family: 'Raleway';
-  font-weight: 200;
+  font-weight: 600px;
   color: #00b2e2;
   margin-top: 0px;
   line-height: 32px;
@@ -573,7 +573,7 @@ h6 {
   content: "\f077";
   font-family: 'FontAwesome';
   font-size: 18px;
-  color: #00b2e2;
+  color: #27bbc7;
   position: absolute;
   top: 11px;
   left: 16px; }
@@ -588,7 +588,7 @@ h6 {
   margin: 0 0px 10px 10px;
   padding: 25px;
   background-color: white;
-  border: 3px solid #00b2e2;
+  border: 3px solid #27bbc7;
   border-radius: 99px;
   -webkit-border-radius: 99px;
   -o-border-radius: 99px;
@@ -731,7 +731,7 @@ header {
 
 /* 11. Navigation area */
 .pm-nav-container {
-  background-color: rgba(0, 178, 226, 0.8);
+  background-color: rgba(33, 187, 199, 0.8);
   width: 100%;
   position: absolute;
   z-index: 9999; }
@@ -906,7 +906,7 @@ header {
   font-family: 'Lato';
   text-transform: uppercase;
   text-decoration: none;
-  color: #00b2e2;
+  color: #21bbc7;
   font-weight: 300;
   display: block;
   padding-top: 10px;
@@ -917,11 +917,11 @@ header {
   -o-transition: all 0.3s; }
 
 .pm-footer-navigation li a.active {
-  border-top: 3px solid #00b2e2; }
+  border-top: 3px solid #21bbc7; }
 
 .pm-footer-navigation li a:hover {
   color: #00538a;
-  border-top: 3px solid #00b2e2; }
+  border-top: 3px solid #21bbc7; }
 
 /* 15. Superfish overrides - main navigation  */
 /* Top Level Navigation */
@@ -1168,7 +1168,7 @@ header {
   -o-transition: all 0.3s; }
 
 .pm-sidebar-cart-posts li a:hover {
-  color: #333; }
+  color: #27bbc7; }
 
 .pm-cart-widget-buttons {
   margin-top: 10px;
@@ -1189,7 +1189,7 @@ header {
   -o-transition: all 0.3s; }
 
 .pm-cart-widget-buttons .wc-forward:hover {
-  background-color: #333; }
+  background-color: #27bbc7; }
 
 .pm-cart-widget-buttons .wc-forward i {
   margin-left: 5px; }
@@ -1283,13 +1283,13 @@ header {
 /* Recent Blog posts widget end */
 /* Recent Blog posts widget Sidebar styles */
 .pm-recent-blog-posts.sidebar .pm-recent-blog-post-details a {
-  color: #333; }
+  color: #27bbc7; }
 
 .pm-recent-blog-posts.sidebar .pm-recent-blog-post-details a:hover {
   color: #EF5438; }
 
 .pm-recent-blog-posts.sidebar .pm-recent-blog-post-details .pm-comment-count {
-  color: #333; }
+  color: #27bbc7; }
 
 /* Recent Blog posts widget Sidebar styles end */
 /* 17. Post pagination system */
@@ -1434,7 +1434,7 @@ header {
 .pm-page-title {
   font-family: 'Raleway';
   font-size: 36px;
-  color: #00b2e2;
+  color: #21bbc7;
   font-weight: bold;
   text-transform: uppercase;
   margin-top: 30px;
@@ -1616,7 +1616,7 @@ header {
   border: 0px solid white; }
 
 .ui-widget-header .ui-state-hover {
-  border: 0px solid #999999 !important;
+  border: 0px solid #27bbc7999 !important;
   background-color: transparent !important;
   font-weight: inherit !important;
   color: #212121;
@@ -1789,7 +1789,7 @@ header {
   padding-top: 23px; }
 
 .pm-pricing-table-btn:hover {
-  background-color: #999;
+  background-color: #27bbc7;
   color: white; }
 
 /* 24. Testimonials carousel */
@@ -1903,7 +1903,7 @@ header {
   transition: none !important; }
 
 .pm-testimonials-arrows a:hover {
-  color: #999; }
+  color: #27bbc7; }
 
 #pm-testimonial-prev {
   float: left; }
@@ -2417,7 +2417,7 @@ header {
   -o-transition: all 0.4s; }
 
 .pm-micro-navigation li a:hover {
-  color: #333; }
+  color: #27bbc7; }
 
 /* 35. Header social icons */
 .pm-social-navigation {
@@ -2491,7 +2491,7 @@ header {
 
 .pm-header-info li p i {
   font-family: 'FontAwesome';
-  color: #00b2e2; }
+  color: #27bbc7; }
 
 /* 37. Header Search container */
 .pm-search-container {
@@ -2529,7 +2529,7 @@ header {
   padding: 12px; }
 
 .pm-search-field-container a:hover {
-  color: #999; }
+  color: #27bbc7; }
 
 .pm-search-field {
   border: none !important;
@@ -2588,7 +2588,7 @@ header {
   color: #00b2e2; }
 
 .pm-dropdown.pm-categories-menu .pm-dropmenu-active ul li a:hover {
-  color: #999; }
+  color: #27bbc7; }
 
 /* 39. Cart info (nav area) */
 .pm-cart-info {
@@ -2886,7 +2886,7 @@ header {
   letter-spacing: 1px; }
 
 .pm-standalone-news-post-title a:hover {
-  color: #333; }
+  color: #27bbc7; }
 
 .pm-standalone-news-post-date {
   font-family: "Open sans";
@@ -2980,7 +2980,7 @@ header {
 
 .pm-newsletter-submit-btn:hover {
   color: white !important;
-  background-color: #999; }
+  background-color: #27bbc7; }
 
 /* 45. Staff profile */
 .pm-staff-profile-container {
@@ -3377,7 +3377,7 @@ header {
   letter-spacing: 1px; }
 
 .pm-single-news-post-title a:hover {
-  color: #333; }
+  color: #27bbc7; }
 
 .pm-single-news-post-date {
   font-family: "Open sans";
@@ -3584,7 +3584,7 @@ header {
   letter-spacing: 1px; }
 
 .pm-services-post-title a:hover {
-  color: #333; }
+  color: #27bbc7; }
 
 .pm-services-post-excerpt {
   margin-top: 20px; }
@@ -3968,7 +3968,7 @@ header {
   -o-transition: all 0.4s; }
 
 .pm-form-submit-btn:hover {
-  background-color: #999999;
+  background-color: #27bbc7999;
   color: white; }
 
 /* Contact form end */
@@ -4093,7 +4093,7 @@ label {
 
 .pm-rounded-submit-btn:hover {
   color: white;
-  background-color: #333 !important; }
+  background-color: #27bbc7 !important; }
 
 .pm-rounded-submit-btn.pm-primary {
   background-color: #EF5438; }
@@ -4209,7 +4209,7 @@ label {
 .pm-order-summary li .title {
   float: left;
   display: block;
-  color: #333;
+  color: #27bbc7;
   font-family: 'Open sans';
   font-size: 14px;
   text-transform: uppercase;
@@ -4218,7 +4218,7 @@ label {
 .pm-order-summary li .label {
   float: left;
   display: block;
-  color: #333;
+  color: #27bbc7;
   font-family: 'Open sans';
   font-size: 14px;
   text-transform: uppercase;
@@ -4443,7 +4443,7 @@ label {
   -o-border-radius: 99px; }
 
 .pm-mailchimp-submit:hover {
-  background-color: #999;
+  background-color: #27bbc7;
   color: white; }
 
 /* Widget - Quick contact form */
@@ -4452,7 +4452,7 @@ label {
 
 .pm_quick_contact_field.Dark {
   background-color: #444 !important;
-  border: 0px solid #333333 !important;
+  border: 0px solid #27bbc7333 !important;
   border-radius: 0px !important;
   color: white !important;
   float: left !important;
@@ -4481,7 +4481,7 @@ label {
   vertical-align: middle !important;
   /*width: 95% !important;*/
   background-color: #444 !important;
-  border: 0px solid #333333 !important;
+  border: 0px solid #27bbc7333 !important;
   box-shadow: none !important;
   margin-bottom: 5px;
   width: 95%;
@@ -4549,12 +4549,12 @@ label {
   -ms-transition: all 0.3s ease 0s; }
 
 .pm_quick_contact_submit:hover {
-  background-color: #333 !important;
+  background-color: #27bbc7 !important;
   color: white !important;
   border: 0px solid white !important; }
 
 .pm_form_response.Dark {
-  color: #333;
+  color: #27bbc7;
   font-size: 12px;
   margin-top: 7px;
   width: auto; }
@@ -4633,7 +4633,7 @@ label {
   -o-transition: all 0.4s; }
 
 .pm-gallery-widget-item-expand:hover {
-  background-color: #999999;
+  background-color: #27bbc7999;
   color: white !important; }
 
 .pm-gallery-widget-view-more {
@@ -4668,7 +4668,7 @@ label {
 
 .pm-rounded-btn:hover {
   color: white !important;
-  background-color: #999; }
+  background-color: #27bbc7; }
 
 .pm-rounded-btn.no-border {
   border: none !important; }
@@ -4701,7 +4701,7 @@ label {
 
 .pm-rounded-btn.transparent:hover {
   color: white;
-  background-color: #333; }
+  background-color: #27bbc7; }
 
 .pm-rounded-btn.transparent a {
   background-color: transparent;
@@ -4873,7 +4873,7 @@ label {
   font-family: 'Open sans' !important; }
 
 .pm-square-btn.pm-cart-remove:hover {
-  background-color: #999;
+  background-color: #27bbc7;
   color: white !important; }
 
 /* Posted comments */
@@ -5263,7 +5263,7 @@ label {
 
 .quantity .qty {
   border: 1px solid #EBEBEB;
-  color: #333333;
+  color: #27bbc7333;
   float: left;
   height: 45px;
   margin-right: 1px;
@@ -5284,7 +5284,7 @@ label {
 
 .quantity-product-post .qty {
   border: 1px solid #EBEBEB;
-  color: #333333;
+  color: #27bbc7333;
   float: left;
   height: 45px;
   margin-right: 1px;
@@ -5332,7 +5332,7 @@ label {
   -o-transition: all 0.3s; }
 
 .quantity .minus:hover, .quantity .plus:hover {
-  background-color: #333;
+  background-color: #27bbc7;
   color: white; }
 
 .pm-woocom-tags-container {
@@ -5432,7 +5432,7 @@ label {
   -o-transition: all 0.4s; }
 
 .pm-woocomm-submit-btn:hover {
-  background-color: #999;
+  background-color: #27bbc7;
   color: white; }
 
 /* Shopping cart */
@@ -5522,7 +5522,7 @@ label {
   -o-transition: all 0.4s; }
 
 .pm-woocomm-submit-btn:hover {
-  background-color: #999;
+  background-color: #27bbc7;
   color: white; }
 
 .pm-woocomm-checkout-titles {
@@ -5626,8 +5626,14 @@ label {
   color: white;
   font-family: "Open sans";
   font-size: 25px;
-  font-weight: 300;
+  font-weight: 600px;
   line-height: 24px;
-  display:inline; }
+  padding-top: 25px;
+  display:block; }
+
+#img-responsiveProdorth{
+  display: inline-flex;
+  max-width: 100%;
+  height: auto; }
 
 /*# sourceMappingURL=master.css.map */

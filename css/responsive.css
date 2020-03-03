@@ -94,8 +94,6 @@
 /* Landscape phone to portrait tablet - BROWSER SIZE 3 */
 @media only screen and (min-width: 767px) and (max-width: 991px) {
 	
-	
-	
 	.pm-comments-response-title {
 		font-size: 24px;
 		line-height: 30px;
@@ -224,6 +222,7 @@
 		width:100%;
 		max-width:none !important;
 		text-align:center;	
+		display: inline-flex;
 	}
 	
 	.pm-header-logo {
@@ -377,6 +376,10 @@
 
 /* All Mobile Sizes (devices and browser) - BROWSER SIZE 4 */
 @media only screen and (max-width: 767px) {
+
+	.img-responsiveProdorthResponsive {
+		margin-top: 10px;
+		background-color:white; }
 	
 	.pm-single-post-like-feature {
 		top:-80px;	
@@ -1350,6 +1353,7 @@
 		line-height: 21px;
 	}
 
-	
-	
+.img-responsiveProdorthResponsive {
+	margin-left: 25%;
+	background-color: yellowgreen; }
 }
