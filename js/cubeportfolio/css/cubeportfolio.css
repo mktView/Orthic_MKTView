@@ -3241,7 +3241,7 @@
   content: '';
   width: 0;
   height: 0;
-  border-bottom: 10px solid #fff;
+  border-bottom: 10px solid transparent; /* Instead of "transparent" it can be white*/
   border-right: 10px solid transparent;
   border-left: 10px solid transparent;
   bottom: 0px;
