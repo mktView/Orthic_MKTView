@@ -15,6 +15,10 @@
 	.tinynav {
 		display:none;	
 	}
+
+	#client17{
+		margin-left: 38%;
+	}
 }
 
 /* Portrait tablet to landscape and desktop - BROWSER SIZE 2 */
@@ -87,7 +91,6 @@
 	.pm-comment-author-list {
 		width: 88%;
 	}
-
 
 }
 
@@ -371,6 +374,9 @@
 		text-align:center;	
 	}
 	
+	#client17{
+		margin-left: 26%;
+	}
 
 }
 
@@ -920,6 +926,10 @@
 	.pm-sub-header-info {
 		background-position:center left;	
 	}
+
+	#client17{
+		margin-left: 26%;
+	}
 		
 }
 
@@ -1174,6 +1184,10 @@
 		line-height: 14px !important;
 		height:44px;
 	}
+
+	#client17{
+		margin-left: 26%;
+	}
 	
 }
 
@@ -1353,7 +1367,11 @@
 		line-height: 21px;
 	}
 
-.img-responsiveProdorthResponsive {
+	.img-responsiveProdorthResponsive {
 	margin-left: 25%;
 	background-color: yellowgreen; }
+
+	#client17{
+		margin-left: 26%;
+	}
 }
