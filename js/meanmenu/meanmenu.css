@@ -19,7 +19,7 @@ a.meanmenu-reveal {
 	float: left;
 	width: 100%;
 	position: relative;
-	background-color: #00b2e2;
+	background-color: #21bbc7;
 	padding: 4px 0;
 	min-height: 42px;
 	z-index: 999999;
@@ -54,7 +54,7 @@ a.meanmenu-reveal {
 .mean-container .mean-nav {
 	float: left;
 	width: 100%;
-	background: #00b2e2;
+	background: #21bbc7;
 	margin-top: 44px;
 	border-bottom:1px solid #1ad7e6;
 }
