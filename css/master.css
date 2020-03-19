@@ -1453,9 +1453,9 @@ header {
 
 .pm-page-message {
   font-family: 'Raleway';
-  font-size: 16px;
-  color: #3f3b3b;
-  font-weight: 300; }
+  font-size: 18px;
+  color: black;
+  font-weight: 600px; }
 
 .pm-sub-header-breadcrumbs {
   border-bottom: 1px solid #eeeeee; }
@@ -1476,16 +1476,16 @@ header {
   float: left;
   font-family: 'Raleway';
   font-size: 12px;
-  color: #5b5b5b;
+  color: #21bbc7;
   text-transform: uppercase;
   margin-right: 7px;
-  font-weight: 300; }
+  font-weight: 600; }
 
 .pm-breadcrumbs li a {
   font-family: 'Raleway';
   font-size: 12px;
-  color: #5b5b5b;
-  font-weight: 300;
+  color: #27bbc7;
+  font-weight: 600;
   text-transform: uppercase; }
 
 .pm-breadcrumbs li a:hover {

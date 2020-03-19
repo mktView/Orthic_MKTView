@@ -1166,7 +1166,9 @@
 	
 	.pm-page-message {
 		text-align:center;	
-		font-size:16px;
+		font-size:18px;
+		color: black;
+		font-weight: 600px;
 	}
 	
 	.posted_in {
