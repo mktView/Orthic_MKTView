@@ -218,18 +218,6 @@
                     'tags'          : ['Interespinoso']
                 },
                 // ************************* PRODUCTO 17 ************************
-                {
-                    'title'         : 'TITULO1',
-                    'description'   : 'Descripcion1',
-                    'thumbnail'     : ['images/veloxs.png', 'images/velox1s.png', 'images/velox2s.png', 'images/velox3s.png', 'images/velox4s.png', 'images/velox5s.png'],
-                    'large'         : ['images/velox.png', 'images/velox1.png', 'images/velox2.png', 'images/velox3.png', 'images/velox4.png', 'images/velox5.png'],
-                    'button_list'   :
-                    [
-                        { 'title':'Página de producto', 'url' : '#', 'new_window' : true }
-                        
-                    ],
-                    'tags'          : ['TAG']
-                }
                 // ************************* PRODUCTO 18 ************************
                 // ************************* PRODUCTO 19 ************************
                 // ************************* PRODUCTO 20 ************************
