@@ -12,14 +12,7 @@
     </script>
     <!-- FIN | Global site tag (gtag.js) - Google Analytics -->
     <!-- INICIO | Google reCaptcha V3 -->
-    <script>
-        grecaptcha.ready(function () {
-            grecaptcha.execute('6LcKquUUAAAAABYxOsObTQDNj3_8YX9q4JP6rLdu', { action: 'contact' }).then(function (token) {
-                var recaptchaResponse = document.getElementById('recaptchaResponse');
-                recaptchaResponse.value = token;
-            });
-        });
-    </script>
+    <script src='https://www.google.com/recaptcha/api.js' async defer></script>
     <!-- FIN | Google reCaptcha V3 -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -238,9 +231,10 @@
                             <textarea name="message" class="pm-form-textarea" cols="50" rows="10" placeholder="Escribe tu mensaje" required></textarea>
                         </div>
                         <div class="col-lg-12 pm-center">
-                            <input type="submit" value="Enviar formulario" name="pm-form-submit-btn" class="pm-form-submit-btn">
+                            <input type="submit" value="Enviar formulario" name="submit" class="pm-form-submit-btn">
                             <p class="pm-required">Todos los campos son requeridos</p>
                         </div>
+                        <div class="g-recaptcha" data-sitekey="6Le4quUUAAAAAL3C6M-bWQiUnjtMxmV9Kfp80Mry"></div>
                     </form>
                 </div>
         </div>
