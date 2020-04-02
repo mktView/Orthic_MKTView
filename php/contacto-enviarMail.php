@@ -12,6 +12,8 @@ if (!$_POST){
 
     if(isset($_POST['g-recaptcha-response'])){
         $captcha=$_POST['g-recaptcha-response'];
+    }
+        
 ////////////////////////////////////////////////////////
         $ch = curl_init();
 
@@ -51,8 +53,5 @@ if (!$_POST){
         }else { 
             echo 'ERROR1'; 
         }
-    }else{
-        echo 'ERROR2';
     }
-}
 ?>
