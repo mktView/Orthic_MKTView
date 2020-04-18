@@ -5647,4 +5647,10 @@ label {
   padding: 0px;
 }
 
-/*# sourceMappingURL=master.css.map */
+.blinking{
+  animation: blinker 6s linear infinite;
+}
+
+@keyframes blinker {
+  50% { opacity: 0;}
+}
