@@ -5646,11 +5646,3 @@ label {
   margin: 0px;
   padding: 0px;
 }
-
-.blinking{
-  animation: blinker 6s linear infinite;
-}
-
-@keyframes blinker {
-  50% { opacity: 0;}
-}
