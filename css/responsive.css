@@ -19,6 +19,14 @@
 	#client17{
 		margin-left: 38%;
 	}
+
+	#columnaVertebral{
+		height: 489px; 
+		width: 180px; 
+		padding-top:10%; 
+		float:none; margin:0 auto;
+		/* border-style: solid; border-color: #2d2d2c;  */
+	} 
 }
 
 /* Portrait tablet to landscape and desktop - BROWSER SIZE 2 */
@@ -90,6 +98,13 @@
 	
 	.pm-comment-author-list {
 		width: 88%;
+	}
+
+	#columnaVertebral{
+		height: 489px; 
+		width: 180px; ; 
+		padding-top:10%; 
+		float:none; margin:0 auto;
 	}
 
 }
@@ -376,6 +391,13 @@
 	
 	#client17{
 		margin-left: 26%;
+	}
+
+	#columnaVertebral{
+		height: 489px; 
+		width: 180px;  
+		padding-top:10%; 
+		float:none; margin:0 auto;
 	}
 
 }
@@ -930,6 +952,12 @@
 	#client17{
 		margin-left: 26%;
 	}
+
+	#columnaVertebral{
+		height: 489px; 
+		width: 180px;  
+		float:none; margin:0 auto;
+	}
 		
 }
 
@@ -1190,6 +1218,12 @@
 	#client17{
 		margin-left: 26%;
 	}
+
+	#columnaVertebral{
+		height: 489px; 
+		width: 180px; 
+		float:none; margin:0 auto;
+	}
 	
 }
 
@@ -1375,5 +1409,11 @@
 
 	#client17{
 		margin-left: 26%;
+	}
+
+	#columnaVertebral{
+		height: 489px; 
+		width: 180px; 
+		float:none; margin:0 auto;
 	}
 }
