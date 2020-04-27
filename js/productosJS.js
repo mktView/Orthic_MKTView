@@ -286,8 +286,8 @@
                 {
                     'title'         : 'ORIO-TL Oblique TLIF PEEK-Optima® jaula',
                     'description'   : 'Es una jaula lumbar transforaminal anatómica para la colocación oblicua hecha de PEEK-Optima®. Radiolúcida está dada por el material PEEK-Optima®, un poli-éter-éter-cetona cuya durabilidad y flexibilidad son similares a los de hueso esponjoso y cortical, con el alto nivel de biocompatibilidad necesaria para la implantación a largo plazo en el cuerpo. Además, el material es altamente transparente a los rayos X y no genera distorsiones radiográficos, permitiendo así la verificación de posición fiable del implante.Para permitir la osificación intervertebral óptima, todas las jaulas ORIO cuentan con una gran cavidad de injerto que facilitan el llenado con hueso.',
-                    'thumbnail'     : ['images/productos/heredados/oriotls.png','images/productos/heredados/oriotl2s.png', 'images/productos/heredados/oriotl3s.png','images/productos/heredados/oriotl4s.png','images/productos/heredados/oriotl5s.png', 'images/productos/heredados/oriotl6s.png'],
-                    'large'         : ['images/productos/heredados/oriotl.png','images/productos/heredados/oriotl2.png', 'images/productos/heredados/oriotl3.png','images/productos/heredados/oriotl4.png','images/productos/heredados/oriotl5.png', 'images/productos/heredados/oriotl6.png'],
+                    'thumbnail'     : ['images/productos/heredados/oriotls.png','images/productos/heredados/oriotl2s.png', 'images/productos/heredados/oriotl3s.png','images/productos/heredados/oriotl4s.png','images/productos/heredados/oriotl5s.png'],
+                    'large'         : ['images/productos/heredados/oriotl.png','images/productos/heredados/oriotl2.png', 'images/productos/heredados/oriotl3.png','images/productos/heredados/oriotl4.png','images/productos/heredados/oriotl5.png'],
                     'button_list'   :
                     [
                        { 'title':'Página de producto', 'url' : 'http://spinecraft.us/Products/Lumbar-Degenerative_6/ORIO-TL-Oblique-TLIF-PEEK-Optima%C2%AE-Cage_11', 'new_window' : true }
