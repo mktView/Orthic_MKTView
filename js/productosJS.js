@@ -1,6 +1,6 @@
     $(function(){
         $("#elastic_grid_demo").elastic_grid({
-            'showAllText' : 'All',
+            'showAllText' : 'Todos',
             'filterEffect': 'popup', // moveup, scaleup, fallperspective, fly, flip, helix , popup
             'hoverDirection': true,
             'hoverDelay': 0,
