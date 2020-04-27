@@ -1,6 +1,6 @@
 <?php
 $remitente = $_POST['email'];
-$destinatario = 'juanantonio488@gmail.com';
+$destinatario = 'informacion@orthic.com.mx';
 $asunto = 'Contacto-Orthic'; 
 $captcha;
 $secretKey = "6Le4quUUAAAAAC46Ocq3XoDv672VIYdRLCt2YUPV";
