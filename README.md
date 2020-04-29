@@ -1,3 +1,3 @@
 # Orthic_MKTView
 Orthic Website 2.0
-Visit the website here: https://juanantonio488.github.io/Orthic_MKTView/
+Visit the website here: https://mktview.github.io/Orthic_MKTView/
